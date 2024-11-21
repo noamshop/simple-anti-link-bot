@@ -11,3 +11,14 @@ Perfect for keeping your server clean and safe! 🔒
 ## GitHub Repository
 
 Find the full code here: [GitHub Repository Link](https://github.com/noamshop/simple-anti-link-bot)
+
+## Requirements
+
+- [Node.js](https://nodejs.org/) (v16 or higher) - Make sure you're using the latest LTS version of Node.js for compatibility.
+- A Discord bot token
+
+## Installation
+
+1. **Clone the repository**:
+   - Open your terminal.
+   - Clone the repository by running the following command: npm i
