@@ -10,4 +10,4 @@ Perfect for keeping your server clean and safe! 🔒
 
 ## GitHub Repository
 
-Find the full code here: [GitHub Repository Link](https://github.com/YOUR_USERNAME/simple-anti-link-bot)
+Find the full code here: [GitHub Repository Link](https://github.com/noamshop/simple-anti-link-bot)
