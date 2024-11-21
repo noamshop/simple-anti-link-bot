@@ -31,7 +31,7 @@ client.on('messageCreate', async (message) => {
 
         const embed = new EmbedBuilder()
             .setColor('#FF0000')
-            .setDescription('You cannot send links here!')
+            .setDescription('⚠️You cannot send links here!⚠️')
             .setTimestamp();
 
         const sentMessage = await message.channel.send({ embeds: [embed] });
