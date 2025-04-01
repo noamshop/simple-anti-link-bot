@@ -43,4 +43,4 @@ client.on('messageCreate', async (message) => {
 });
 
 
-client.login('token here');
+client.login('Your token here!');
